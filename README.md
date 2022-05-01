@@ -90,7 +90,8 @@ for job_element in python_job_elements:
 
 
 
-![Uploading Screen Shot 2022-05-01 at 10.59.43 AM.png…]()
+<img width="471" alt="Screen Shot 2022-05-01 at 10 59 43 AM" src="https://user-images.githubusercontent.com/104590889/166154293-34d24d79-bc50-4afc-8d8d-d25fa351714f.png">
+
 
 
 
